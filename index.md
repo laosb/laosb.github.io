@@ -1,6 +1,6 @@
 吕世博 / Wexpo Lyu
 
-来自浙江宁波，现为高中生（高三），就读于宁波鄞州高级中学。主要活跃于 Meteor 社区，擅长双端 JavaScript 开发（偏向前端），能做一些简单的 Web 架构设计，热爱平面设计/用户体验设计，热爱文学和中国传统文化，文字（代码）排版、设计、架构方面强迫症晚期。
+来自浙江宁波，现为高中生（高三），就读于宁波鄞州高级中学。主要活跃于 Meteor 社区，开始向泛 JS 社区迁移。擅长双端 JavaScript 开发（偏向前端），能做一些简单的 Web 架构设计，熟悉 Docker 并热衷微服务架构，热爱平面设计/用户体验设计，热爱文学和中国传统文化，文字（代码）排版、设计、架构方面强迫症晚期。
 
 * GitHub: https://github.com/laosb
 * Twitter: @it99p (Not Active)
@@ -9,8 +9,7 @@
 * Resume on GitHub: http://laosb.github.io
 
 
-* io.js 官方网站（现 Node.js 官方网站）参与译者及参与设计者 Part-time Translator & Designer of io.js/Node.js Website
-* nodejs-cn 小组贡献者 Contributor of nodejs-cn Group
+* io.js 官方网站（现 Node.js 官方网站）参与译者及参与设计者 Part-time Translator & Designer of io.js / Node.js Website
 * Node.js 基金会成员 Node.js Foundation Member
 * GTC15 第一届青少年极客大会组委会总负责人 President of GTC15’ Committee
 * TEDxYinzhouSeniorSchool 2016 活动总管 TEDxYinzhouSeniorSchool 2016 Event Manager
@@ -29,8 +28,8 @@
 
 ## 项目 / Projects 
 
-### 自有
-* [Immortal.Work](http://immortal.work) *UI/UX* · *Meteor*
+### 个人主导
+* [Immortal.Work](https://immortal.work) *UI/UX* · *Vue* · *Meteor*
 * [DoMeteor](https://github.com/vividcloud/dometeor) *Docker* · *Meteor*
 * [BestSayings](https://github.com/laosb/BestSayings) (No longer matained) *Meteor*
 * [TEDxYinzhouSeniorSchool 官方网站及宣传品](http://tedx.nbyg.net) *Web* · *Graphic Designing*
@@ -55,7 +54,9 @@
     * HTML5
     * CSS3
   * **GraphQL**
-  * **Swift for iOS/Server** (In Progress)
+    * Apollo Data
+  * **Swift for iOS/Server** (In Progress)
+    * Vapor
   * PHP / MySQL
   * Golang  (In Progress)
   * VB(.net) / Pascal / C++
