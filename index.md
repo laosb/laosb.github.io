@@ -43,7 +43,7 @@
 ## 技术栈 / Stack
 
 * Dev
-  * **Meteor**
+  * Meteor
     * ECMAScript 2015 (ES6)
     * Full Stack
     * MongoDB
@@ -53,14 +53,14 @@
     * Ractive.js
     * HTML5
     * CSS3
-  * **GraphQL(Apollo Data)**
-  * **Swift for iOS/Server(Vapor)** (In Progress)
+  * GraphQL(Apollo Data)
+  * Swift for iOS/Server(Vapor) (In Progress)
   * PHP / MySQL
   * Golang  (In Progress)
   * VB(.net) / Pascal / C++
   * NativeScript
 * Ops
-  * **Docker Containerized Deployment** (In Progress)
+  * Docker Containerized Deployment (In Progress)
   * RethinkDB (In Progress)
   * Deis / Dokku
   * MongoDB Ops with Oplog
