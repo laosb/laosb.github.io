@@ -53,10 +53,8 @@
     * Ractive.js
     * HTML5
     * CSS3
-  * **GraphQL**
-    * Apollo Data
-  * **Swift for iOS/Server** (In Progress)
-    * Vapor
+  * **GraphQL(Apollo Data)**
+  * **Swift for iOS/Server(Vapor)** (In Progress)
   * PHP / MySQL
   * Golang  (In Progress)
   * VB(.net) / Pascal / C++
