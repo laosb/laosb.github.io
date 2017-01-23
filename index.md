@@ -8,6 +8,7 @@
 * Immortal.Work: http://immortal.work/laosb
 * Resume on GitHub: http://laosb.github.io
 
+------------------
 
 * io.js 官方网站（现 Node.js 官方网站）参与译者及参与设计者 Part-time Translator & Designer of io.js / Node.js Website
 * Node.js 基金会成员 Node.js Foundation Member
@@ -44,21 +45,21 @@
 
 * Dev
   * Meteor
-    * ECMAScript 2015 (ES6)
-    * Full Stack
-    * MongoDB
+    - ECMAScript 2015 (ES6)
+    - Full Stack
+    - MongoDB
   * Node.js (io.js)
   * Front-end
-    * Vue.js
-    * Ractive.js
-    * HTML5
-    * CSS3
-  * GraphQL(Apollo Data)
-  * Swift for iOS/Server(Vapor) (In Progress)
+    - Vue.js
+    - Ractive.js
+    - HTML5
+    - CSS3
   * PHP / MySQL
   * Golang  (In Progress)
   * VB(.net) / Pascal / C++
   * NativeScript
+  * GraphQL(Apollo Data)
+  * Swift 3
 * Ops
   * Docker Containerized Deployment (In Progress)
   * RethinkDB (In Progress)
@@ -68,10 +69,10 @@
 ## 艺术 / Art
 
 * 平面设计 / Graphic Designing
-  * 针对宣传品、印刷品的平面设计
+  - 针对宣传品、印刷品的平面设计
 * UI 设计 / UI Designing
-  * Single Page (Web) Application
-  * iOS
-  * Material Design
+  - Single Page (Web) Application
+  - iOS
+  - Material Design
 * 前端设计 / Front-end Designing
 * 文案编写 / Copywriting
