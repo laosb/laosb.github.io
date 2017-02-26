@@ -2,12 +2,11 @@
 
 来自浙江宁波，现为高中生（高三），就读于宁波鄞州高级中学。主要活跃于 Meteor 社区，开始向泛 JS 社区迁移。擅长双端 JavaScript 开发（偏向前端），能做一些简单的 Web 架构设计，熟悉 Docker 并热衷微服务架构，热爱平面设计/用户体验设计，热爱文学和中国传统文化，文字（代码）排版、设计、架构方面强迫症晚期。
 
-* GitHub: https://github.com/laosb
-* Twitter: @it99p (Not Active)
-* Keybase.io: https://keybase.io/laosb
-* Medium (Mainly for English articles): https://medium.com/@laosb
-* Immortal.Work (Mainly for Chinese articles): https://immortal.work/laosb
-* Resume on GitHub: http://laosb.github.io
+* GitHub: [https://github.com/laosb](https://github.com/laosb)
+* Keybase.io: [https://keybase.io/laosb](https://keybase.io/laosb)
+* Medium (Mainly for English articles): [https://medium.com/@laosb](https://medium.com/@laosb)
+* Immortal.Work (Mainly for Chinese articles): [https://immortal.work/laosb](https://immortal.work/laosb)
+* Resume on GitHub: [http://laosb.github.io](http://laosb.github.io)
 
 ------------------
 
