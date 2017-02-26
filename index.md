@@ -5,7 +5,8 @@
 * GitHub: https://github.com/laosb
 * Twitter: @it99p (Not Active)
 * Keybase.io: https://keybase.io/laosb
-* Immortal.Work: http://immortal.work/laosb
+* Medium (Mainly for English articles): https://medium.com/@laosb
+* Immortal.Work (Mainly for Chinese articles): https://immortal.work/laosb
 * Resume on GitHub: http://laosb.github.io
 
 ------------------
@@ -22,18 +23,20 @@
 2016 年成为第一批 [`meteor/meteor`](https://github.com/meteor/meteor) 仓库的社区维护者，与 MDG 共同维护 Meteor，受到 MDG 认可。
 
 ### TEDxYinzhouSeniorSchool Event Manager (2015.10 - 2016.5)
-作为 TEDxYinzhouSeniorSchool 活动的发起人与活动总管，自 2015 年 10 月起开始筹备，并于 2016 年 5 月 21 日成功举办，成为浙江第一个由高中生独立策划举办的 TEDx 活动。同时是 [TEDxYinzhouSeniorSchool 网站](http://tedx.nbyg.net)的设计师及开发者。
+作为 TEDxYinzhouSeniorSchool 活动的发起人与活动总管。活动自 2015 年 10 月起开始筹备，并于 2016 年 5 月 21 日成功举办，成为浙江第一个由高中生独立策划举办的 TEDx 活动。同时是 [TEDxYinzhouSeniorSchool 2016 网站](https://github.com/TEDxYinzhouSeniorSchool/tedx.nbyg.net)的设计师及开发者。
 
 ### Node.js Foundation Member, iojs-cn Contributor (2015 - Now)
 自 io.js 单独维护起为 io.js 官方网站贡献设计与翻译，成为 iojs-cn 组成员，为 io.js 设计的官网后被 NW.js 项目官网所采用。io.js 与 Node.js 合并后成为 Node.js 基金会成员，为中国大陆本地化组成员。
 
 ## 项目 / Projects 
 
-### 个人主导
-* [Immortal.Work](https://immortal.work) *UI/UX* · *Vue* · *Meteor*
-* [DoMeteor](https://github.com/vividcloud/dometeor) *Docker* · *Meteor*
+### 主导
+* [Immortal.Work](https://immortal.work) 一个专注于中文的写作、阅读与分享的内容平台 *UI/UX* · *Vue* · *Meteor*
+* [HaLang](https://laosb.github.io/halang) 完全兼容 JavaScript ES6 的中文编程语言 *JavaScript*
+* [HaTP](https://github.com/laosb/hatp) 基于 acorn 和 astring 的 HaLang 的转译器实现*JavaScript*
+* [DoMeteor](https://github.com/vividcloud/dometeor) 适合 DaoCloud 构建环境的 Meteor 应用镜像 *Docker* · *Meteor*
 * [BestSayings](https://github.com/laosb/BestSayings) (No longer matained) *Meteor*
-* [TEDxYinzhouSeniorSchool 官方网站及宣传品](http://tedx.nbyg.net) *Web* · *Graphic Designing*
+* [TEDxYinzhouSeniorSchool 官方网站及宣传品](https://github.com/TEDxYinzhouSeniorSchool/tedx.nbyg.net) *Web* · *Graphic Designing*
 
 ### 参与
 * [Meteor](https://github.com/meteor/meteor)
@@ -46,24 +49,18 @@
 * Dev
   * Meteor
     - ECMAScript 2015 (ES6)
-    - Full Stack
     - MongoDB
   * Node.js (io.js)
   * Front-end
     - Vue.js
-    - Ractive.js
-    - HTML5
-    - CSS3
+    - HTML5/CSS3
   * PHP / MySQL
-  * Golang  (In Progress)
-  * VB(.net) / Pascal / C++
+  * Golang (In Progress)
   * NativeScript
-  * GraphQL(Apollo Data)
+  * GraphQL ([Apollo Data](http://dev.apollodata.com/))
   * Swift 3
 * Ops
   * Docker Containerized Deployment (In Progress)
-  * RethinkDB (In Progress)
-  * Deis / Dokku
   * MongoDB Ops with Oplog
 
 ## 艺术 / Art
