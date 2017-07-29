@@ -1,0 +1,102 @@
+@import url('https://fonts.proxy.ustclug.org/css?family=Montserrat:400,700');
+
+* {
+  margin: 0;
+  padding: 0;
+  color: #333;
+  font-family: Montserrat;
+}
+
+
+h3 {
+  line-height: 3em;
+}
+
+.container {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+header {
+  background: #0af;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .3);
+  border-radius: 0 0 10px 10px;
+  padding: 0 .5em;
+  text-align: center;
+}
+
+footer {
+  display: block;
+  background: #0af;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .3);
+  border-radius: 10px 10px 0 0;
+  padding: 2em;
+  text-align: center;
+}
+
+footer * {
+  color: #fff;
+}
+
+header * {
+  color: #fff;
+  text-decoration: none;
+}
+
+header div {
+  margin-top: 1em;
+}
+
+header div a {
+  display: inline-block;
+  padding: 0 .5em;
+  line-height: 3em;
+  transition: .3s all ease;
+}
+
+header div a:hover, header div a:active, header div a.active {
+  box-shadow: 0 -3px 0 #fff inset;
+}
+
+article {
+  opacity: 0;
+  border-radius: 5px;
+  /* box-shadow: 0 0 20px 5px rgba(0, 0, 0, .3); */
+  margin: 0;
+  height: 0;
+  padding: 0 2em;
+  transition: .7s all ease;
+  overflow: hidden;
+}
+
+article.active {
+  opacity: 1;
+  margin: 2em 0;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .3);
+  padding: 2em;
+  height: auto;
+  min-height: 70vh;
+}
+
+article p, article ul {
+  margin-bottom: 1.5em
+}
+
+.avatar {
+  background: rgba(255, 255, 255, .4);
+  width: 120px;
+  border-radius: 5px;
+  margin: 2em;
+}
+
+.laosb-heart {
+  display: inline-block;
+  transition: .3s all cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+
+.laosb-heart:hover, .laosb-heart:active {
+  transform: scale(2) rotate(-30deg);
+  color: #f44336;
+}
