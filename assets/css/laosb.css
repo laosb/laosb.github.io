@@ -93,10 +93,13 @@ article p, article ul {
 
 .laosb-heart {
   display: inline-block;
+  font-family: monospace;
+  font-size: 1.5em;
   transition: .3s all cubic-bezier(0.785, 0.135, 0.15, 0.86);
 }
 
 .laosb-heart:hover, .laosb-heart:active {
-  transform: scale(2) rotate(-30deg);
+  transform: scale(2, 1.5) rotate(-90deg);
+  letter-spacing: -4px;
   color: #f44336;
 }
