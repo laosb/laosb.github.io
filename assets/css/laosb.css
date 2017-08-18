@@ -93,6 +93,10 @@ header nav a:hover, header nav a:active, header nav a.active {
   header nav a:hover, header nav a:active, header nav a.active {
     box-shadow: -3px 0 0 #fff inset;
   }
+  article {
+    transition: none !important;
+    /* Disable transitions on mobile phones, because the animation is not that fluent on mobile devices  */
+  }
 }
 
 article {
