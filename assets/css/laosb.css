@@ -24,7 +24,6 @@ header {
   box-shadow: 0 0 20px rgba(0, 0, 0, .3);
   border-radius: 0 0 10px 10px;
   padding: 0 .5em;
-  text-align: center;
 }
 
 footer {
@@ -43,21 +42,57 @@ footer * {
 header * {
   color: #fff;
   text-decoration: none;
+  text-align: center;
 }
 
-header div {
+header nav {
   margin-top: 1em;
 }
 
-header div a {
+header nav a {
   display: inline-block;
   padding: 0 .5em;
   line-height: 3em;
   transition: .3s all ease;
 }
 
-header div a:hover, header div a:active, header div a.active {
+header nav a:hover, header nav a:active, header nav a.active {
   box-shadow: 0 -3px 0 #fff inset;
+}
+
+@media (max-width: 600px) {
+  header {
+    position: relative;
+    text-align: justify;
+    padding-right: 0;
+  }
+  header::after {
+    content: "";
+    display: table;
+    clear: both; 
+  }
+  header * {
+    margin: 0;
+  }
+  header div {
+    position: relative;
+    display: inline-block;
+    width: 65%;
+  }
+  header nav {
+    width: 35%;
+    float: right;
+    padding-bottom: 15px;
+  }
+  header nav a {
+    display: block;
+    line-height: 2.5em;
+    text-align: right;
+    padding-right: 20px;
+  }
+  header nav a:hover, header nav a:active, header nav a.active {
+    box-shadow: -3px 0 0 #fff inset;
+  }
 }
 
 article {
@@ -86,9 +121,10 @@ article p, article ul {
 
 .avatar {
   background: rgba(255, 255, 255, .4);
-  width: 120px;
+  width: 80%;
+  max-width: 120px;
   border-radius: 5px;
-  margin: 2em;
+  margin: 2em 0;
 }
 
 .laosb-heart {
