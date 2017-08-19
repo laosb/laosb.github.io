@@ -20,19 +20,40 @@
     </header>
     <main class="container">
       <div>
-        <article id="page-intro">
-          <h3>个人简介</h3>
-          <p>一个擅长技术、喜欢设计、热衷参与社会工作的傻 x。</p>
-          <p>小学三年级学 Flash，于是掉入 IT 大坑却乐在其中，有了这个站上的「技术」页。</p>
-          <p>初中接触了第一款 Apple 产品，开始意识到这个世界上光有能用的东西是不够的，还需要好用，于是开始爱上设计，本站就有了「设计」页。</p>
-          <p>高中参加了模联，后来去做创客社、GTC、TEDx 活动，几次失败后现在又起来接着做 ¡Hola!，大概是要一直把社会工作作为一种责任做下去。就是「社会工作」页了。</p>
-          <p>马上要去 HDU，大概又要打开 EE 的新世界。</p>
-          <p>我想到目前为止，在我眼里最重要的事情是坚持。</p>
+        <article id="page-intro" markdown>
+          ### 简介
+
+          这个站，我本来是当做简历做的，现在看来，它更像一个个人手账和心路历程。有空再写简历吧。另外本站还没更新完，内容有些地方还没填。
+          
+
+          一个擅长技术、喜欢设计、热衷参与社会工作的傻 x。
+
+          小学三年级学 Flash，于是掉入 IT 大坑却乐在其中，有了这个站上的「技术」页。
+
+          初中接触了第一款 Apple 产品，开始意识到这个世界上光有能用的东西是不够的，还需要好用，于是开始爱上设计，本站就有了「设计」页。
+
+          高中参加了模联，后来去做创客社、GTC、TEDx 活动，几次失败后现在又起来接着做 ¡Hola!，大概是要一直把社会工作作为一种责任做下去。就是「社会工作」页了。
+          马上要去 HDU，大概又要打开 EE 的新世界。
+
+          我想到目前为止，在我眼里最重要的事情是坚持。
         </article>
         <article id="page-tech">
           <h3>技术</h3>
-          <p>山不在高 有林则徐 水不在深 有江则名</p>
-          <p>按 E 可赛艇，按 M 安轨。</p>
+          <blockquote standout class="codein"><code>on (press) { startDrag("gun", true); }</code></blockquote>
+          <p>
+            我的计算机生涯是从 Flash 开始的。那个时候只会 Flash，但是因为 ActionScript 的「强大」，那个时候我开始用它来做一些奇怪但有意思的东西，比如用
+            Flash 复刻一套操作系统 UI。初学 Flash 那一年赶上奥运，还做了一个奥运主题的 UI 主题，尽管那个时候对设计和美学方面的认识相当浅薄。Flash
+            相关的认识，要归功于小学老师吧。就这样我开始走上了学计算机的道路。
+          </p>
+          <blockquote standout class="codein"><code>MsgBox "Hello world!"</code></blockquote>
+          <p>
+            真正认认真真自己写程序是在四年级，亲戚给了一本《Visual Basic 6.0 入门》。那个时候开始了解 Win32 编程，了解了很多操作系统的概念。Windows
+            Vista 诞生，又开始玩虚拟机、研究 GDI 编程去模拟 Windows Aero 效果。现在想想，也许那个时候的我还不算烂。
+          </p>
+          <blockquote standout class="codein"><code>readln(a, b); writeln(a + b);</code></blockquote>
+          <p>
+            第二年，转入面向竞赛的程序设计培训。小学生的程序设计竞赛，而且全校就两个人。学的 Pascal，后来在区级竞赛上拿过两个奖。此后再无奖状入账。
+          </p>
         </article>
         <article id="page-design">
           <h3>设计</h3>
@@ -46,7 +67,7 @@
         </article>
         <article id="page-identity">
           <h3>关于</h3>
-          <p>姓名吕世博，主要使用英文名 Wexpo Lyu，正式场合使用英文名 Shibo Lyu / Shibo Lv。曾用英文名 Expo Lyu。别问我为什么网名叫 laosb，黑历史无可奉告。若干天前开始认认真真写点东西，于是有了笔名「堂辟」。</p>
+          <p>姓名吕世博，主要使用英文名 Wexpo Lyu，正式场合使用英文名 Shibo Lyu / Shibo Lv。曾用英文名 Expo Lyu、Pater Lyu、Peter Lyu。别问我为什么网名叫 laosb，黑历史无可奉告。若干天前开始认认真真写点东西，于是有了笔名「堂辟」。</p>
           <p>在大多数平台上，我使用 laosb 作为用户名，但是部分平台例外。请以本页所列举的通讯方式为准。其他通讯方式，如 QQ、WeChat、手机等仅提供给熟人。通过下面的联系方式可以变成熟人。</p>
           <ul>
             <li><a href="https://keybase.io/laosb">laosb</a> @ Keybase</li>
@@ -75,6 +96,7 @@
       <p>Copyright 1999-2017 Wexpo Lyu. <a href="/old/">Outdated resume</a></p>
       <p><span class="laosb-heart"><3</span> Holy Yea</p>
     </footer>
+    <script src="//unpkg.cnpmjs.org/marked"></script>
     <script src="/assets/js/laosb.js"></script>
   </body>
 </html>

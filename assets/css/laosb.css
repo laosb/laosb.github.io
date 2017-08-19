@@ -12,6 +12,17 @@ h3 {
   line-height: 3em;
 }
 
+blockquote[standout] {
+  font-size: 2rem;
+  line-height: 2.1rem;
+  margin: 1.5rem;
+}
+
+code {
+  font-family: Monaco, monospace;
+  color: rgba(0, 0, 0, .7);
+}
+
 .container {
   width: 90%;
   max-width: 900px;
@@ -60,45 +71,6 @@ header nav a:hover, header nav a:active, header nav a.active {
   box-shadow: 0 -3px 0 #fff inset;
 }
 
-@media (max-width: 600px) {
-  header {
-    position: relative;
-    text-align: justify;
-    padding-right: 0;
-  }
-  header::after {
-    content: "";
-    display: table;
-    clear: both; 
-  }
-  header * {
-    margin: 0;
-  }
-  header div {
-    position: relative;
-    display: inline-block;
-    width: 65%;
-  }
-  header nav {
-    width: 35%;
-    float: right;
-    padding-bottom: 15px;
-  }
-  header nav a {
-    display: block;
-    line-height: 2.5em;
-    text-align: right;
-    padding-right: 20px;
-  }
-  header nav a:hover, header nav a:active, header nav a.active {
-    box-shadow: -3px 0 0 #fff inset;
-  }
-  article {
-    transition: none !important;
-    /* Disable transitions on mobile phones, because the animation is not that fluent on mobile devices  */
-  }
-}
-
 article {
   opacity: 0;
   border-radius: 10px;
@@ -142,4 +114,49 @@ article p, article ul {
   transform: scale(2, 1.5) rotate(-90deg);
   letter-spacing: -4px;
   color: #f44336;
+}
+
+@media (max-width: 600px) {
+  header {
+    position: relative;
+    text-align: justify;
+    padding-right: 0;
+  }
+  header::after {
+    content: "";
+    display: table;
+    clear: both; 
+  }
+  header * {
+    margin: 0;
+  }
+  header div {
+    position: relative;
+    display: inline-block;
+    width: 65%;
+  }
+  header nav {
+    width: 35%;
+    float: right;
+    padding-bottom: 15px;
+  }
+  header nav a {
+    display: block;
+    line-height: 2.5em;
+    text-align: right;
+    padding-right: 20px;
+  }
+  header nav a:hover, header nav a:active, header nav a.active {
+    box-shadow: -3px 0 0 #fff inset;
+  }
+  article {
+    transition: none !important;
+    /* Disable transitions on mobile phones, because the animation is not that fluent on mobile devices  */
+  }
+  blockquote[standout] {
+    margin: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+
+  }
 }
