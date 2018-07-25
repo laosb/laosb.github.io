@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/laosb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://laosb.github.io
+  * I am laosb (https://keybase.io/laosb) on keybase.
+  * I have a public key with fingerprint 8DF5 11B3 BA91 A62E 7757  E6B7 AC1D F8AB 4942 72EC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010153d9796b4972af6f81ffcdb5ae8ce700ebaa51e51b54bbedac44d74c1581abcb0a",
+      "fingerprint": "8df511b3ba91a62e7757e6b7ac1df8ab494272ec",
+      "host": "keybase.io",
+      "key_id": "ac1df8ab494272ec",
+      "kid": "010153d9796b4972af6f81ffcdb5ae8ce700ebaa51e51b54bbedac44d74c1581abcb0a",
+      "uid": "91a4ce9b64d9dcddc38940c652b54519",
+      "username": "laosb"
+    },
+    "service": {
+      "hostname": "laosb.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1532501071,
+  "expire_in": 157680000,
+  "prev": "7d7e96f33c897c08571f193b77d8884d82d9bc7aca57f5b162a14d0c6b63be9e",
+  "seqno": 53,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJbSBVBGD5qmklakNWDgbFQoJid2bOzs3uwp+4UhCVkWZzmtsdNPXs8
+u8cLphFlSEZgEEneiMxKEM2IQKJUJLrRi9lDikRkSURKlFJKNWsFPfTYvAwz833f
+/33//EPJcZ6kmG8td5wu/ep0zJOBxqinIH/NniqJWKxS8ldJRXxh48WM206gyGSS
+X/ICL4A+piNdJYqOZGyohgYMgzICMdcoR14vJxhDwCEgUCGEM0wVhSGFAqgBTCjx
+YilLMsxQkEfCETPkCFmNGRAA4iNYB1iVOUIQcZUgTAEzNCxKKTKSORXEQst2GcIc
+wTbPNi1xJw6BBXv/wP9n39EFOeFSoVwnqsJ0RhmjPk1XvFSFsuBCoLtAm0dCuIQL
+dDG2bCJVZ0niqsyk3O2qG+Pv5+yg6RRGya884YjlWNQqFo+FjhO2/S7ZqQy76HJO
+Ar91AsQMMdFHwSjjEdu0QpIfCCR1TFdYBJahCI5AlsQrwmaEB0wXAZGqecVy6/Ay
+IYkY4rpq+HxU0xH1ahABA+g+ghDTNE1hmsx0QsVnYIgMSIAqY6AwEZeoPsJ1LrnJ
+SkOW5Ic+4RMHhaZtBkPYiUa4VD3YX7DIE5PkSYiPdQfMk7Rk+Z+xO5W9eDYYdzJ5
+yw34qLlj7mbFxIWPdUb5960dg9dK9ha25X2p62vd8zD2xfD6+gQ8mH/mnlY0GnqV
+k9s3P5eOR9S0TR3yeNPlsR8D5zKOjPgzc6vb8O32nkN5We3TqeunH9gZM92J2Ydb
+Dr6rX5eQeCr508qh1V0DK5beeh2N8W9O60/snMvrSeqderPhUm902XDNVN8OuSs/
+mnnl7pZOu5S0tJp8t5U6n9K7b/HGCRCtu/t1uxmc+RB7MLU5/uhoyvL9jSdy0jdP
+xl4cfwo2NlqPZ0/XDjccf3s8P+PKk+s1Oxuc+5+P1Z9FdZ1rrz/e9fzH2Pumbc8O
+TNScH5z0d48XFL+sbVj1ExdsSLY=
+=J3NW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/laosb
+
+==================================================================
