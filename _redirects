@@ -1,8 +1,15 @@
 # This is the redirects file used on lao.sb.
 
+# This site
+/r             https://github.com/laosb/laosb.github.io/blob/master/_redirects
+/rd            https://github.com/laosb/laosb.github.io/blob/master/_redirects
+
 # GitHub
 /gh            https://github.com/laosb
 /gh/:repo      https://github.com/laosb/:repo
+
+# Twitter
+/t             https://twitter.com/laosbxd
 
 # Keybase
 /kb            https://keybase.io/laosb
