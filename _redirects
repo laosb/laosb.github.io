@@ -1,0 +1,24 @@
+# This is the redirects file used on lao.sb.
+
+# GitHub
+/gh            https://github.com/laosb
+/gh/:repo	     https://github.com/laosb/:repo
+
+# Keybase
+/kb	           https://keybase.io/laosb
+/kb/s          https://keybase.io/encrypt#laosb
+/kb/say        https://keybase.io/encrypt#laosb
+/kb/m          https://keybase.io/encrypt#laosb
+/kb/msg        https://keybase.io/encrypt#laosb
+/kb/k          https://keybase.io/laosb/key.asc
+/kb/key        https://keybase.io/laosb/key.asc
+
+# Telegram
+/tg            https://t.me/laosb
+/tg/:post_id   https://t.me/stubid/:post_id
+
+# npm
+/npm           https://www.npmjs.com/~laosb
+
+# Medium.com
+/md            https://medium.com/@laosb
