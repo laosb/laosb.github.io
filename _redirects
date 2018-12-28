@@ -2,10 +2,10 @@
 
 # GitHub
 /gh            https://github.com/laosb
-/gh/:repo	     https://github.com/laosb/:repo
+/gh/:repo      https://github.com/laosb/:repo
 
 # Keybase
-/kb	           https://keybase.io/laosb
+/kb            https://keybase.io/laosb
 /kb/s          https://keybase.io/encrypt#laosb
 /kb/say        https://keybase.io/encrypt#laosb
 /kb/m          https://keybase.io/encrypt#laosb
