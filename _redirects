@@ -6,6 +6,10 @@
 
 # GitHub
 /gh            https://github.com/laosb
+/gh/s          https://github.com/laosb?tab=stars
+/gh/star       https://github.com/laosb?tab=stars
+/gh/s/:q       https://github.com/laosb?tab=stars&utf8=%E2%9C%93&q=:q
+/gh/star/:q    https://github.com/laosb?tab=stars&utf8=%E2%9C%93&q=:q
 /gh/:repo      https://github.com/laosb/:repo
 
 # Twitter
