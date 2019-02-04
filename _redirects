@@ -4,6 +4,9 @@
 /r             https://github.com/laosb/laosb.github.io/blob/master/_redirects
 /rd            https://github.com/laosb/laosb.github.io/blob/master/_redirects
 
+# Redbag
+/rb            https://xn--xv9h.lao.sb
+
 # GitHub
 /gh            https://github.com/laosb
 /gh/s          https://github.com/laosb?tab=stars
