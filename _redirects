@@ -36,3 +36,6 @@
 
 # Medium.com
 /md            https://medium.com/@laosb
+
+# Qiniu Storage
+/qn/:path      http://static-stor.cdn-nossl.vvdapp.com/:path
