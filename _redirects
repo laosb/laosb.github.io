@@ -39,3 +39,6 @@
 
 # Qiniu Storage
 /qn/:path      http://static-stor.cdn-nossl.vvdapp.com/:path
+
+# Privacy Kit
+/privacy       https://laosb.github.io/privacykit.html
