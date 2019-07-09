@@ -31,6 +31,9 @@
 /tg            https://t.me/laosb
 /tg/:post_id   https://t.me/stubid/:post_id
 
+# Mastodon
+/md            https://f8d.rocks/@laosb
+
 # npm
 /npm           https://www.npmjs.com/~laosb
 
