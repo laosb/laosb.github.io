@@ -28,8 +28,8 @@
 /kb/key        https://keybase.io/laosb/key.asc
 
 # Telegram
-/tg            https://t.me/laoself
-/tg/:post_id   https://t.me/laoself/:post_id
+/tg            https://t.me/s/laoself
+/tg/:post_id   https://t.me/s/laoself/:post_id
 
 # Mastodon
 /md            https://f8d.rocks/@laosb
