@@ -96,10 +96,10 @@ article p, article ul {
 }
 
 .avatar {
-  background: rgba(255, 255, 255, .4);
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, .4);
   width: 80%;
   max-width: 120px;
-  border-radius: 5px;
+  border-radius: 50%;
   margin: 2em 0;
 }
 
