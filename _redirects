@@ -44,6 +44,9 @@
 # Qiniu Storage
 /qn/:path      http://static-stor.cdn-nossl.vvdapp.com/:path
 
+# Rime Configuration
+/rime          https://gist.github.com/laosb/a2147d66f0705d74da52033b7f7fcf1b
+
 # Privacy Kit
 /privacy       https://laosb.github.io/privacykit.html
 
