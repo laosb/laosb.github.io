@@ -47,7 +47,7 @@ Skeleton:
 
 CSS is the markup for styling your HTML.
 
-- Syntax: `selector { property: value; another-property: value1 value2 }`
+- Syntax: `selector { property: value; another-property: value1 value2; }`
 - Selectors:
   - `h1` selects `<h1>Any level 1 heading</h1>`
   - `.some-class` selects `<any-tag class="some-class"></any-tag>`
