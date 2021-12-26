@@ -1,4 +1,5 @@
 ---
+layout: page
 ---
 
 # Create Your Own Website
