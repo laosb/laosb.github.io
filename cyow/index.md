@@ -4,6 +4,14 @@
 
 Creating a webpage requires mainly 3 domains of knowledge: HTML, CSS and JS.
 
+### Tools
+
+- A modern browser. Your current browser is likely modern enough.
+- A text editor.
+  - [Visual Studio Code](https://code.visualstudio.com)
+  - [Notepad++](https://notepad-plus-plus.org) (Windows-only)
+  - Even the system builtin editor (Notepad on Windows, TextEdit on macOS) would do. It's recommended to use more professional ones I listed above though.
+
 ### HTML
 
 HTML is the markup for describing your webpage's structure (hierarchy).
