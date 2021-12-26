@@ -31,7 +31,8 @@ Skeleton:
 ```html
 <html lang="en">
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Title of your webpage</title>
   </head>
   <body>
@@ -39,6 +40,7 @@ Skeleton:
     <p>A quick brown fox jumps over a lazy dog.</p>
   </body>
 </html>
+
 ```
 
 [Learn more on MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
